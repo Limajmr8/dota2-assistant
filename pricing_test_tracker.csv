@@ -1,0 +1,3 @@
+date,buyer_name_or_id,sale_price,campaign_source,buyer_number_running,total_sales_running,notes
+,,,,,,Start at 299 until buyer_number_running reaches 20
+,,,,,,When buyer_number_running > 20 set sale_price to 499

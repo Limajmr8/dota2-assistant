@@ -7,7 +7,7 @@ from pathlib import Path
 from typing import List, Tuple
 
 
-ROOT = Path("/home/runner/work/dota2-assistant/dota2-assistant")
+ROOT = Path(__file__).resolve().parent
 OUTPUT = ROOT / "NPSC_Crack_Kit.pdf"
 INPUT_FILES: List[Tuple[str, Path]] = [
     ("Deliverable 1 — 200 Questions", ROOT / "npsc_200_questions.md"),
@@ -194,4 +194,3 @@ if __name__ == "__main__":
             raise FileNotFoundError(f"Missing required source file: {src}")
     build_pdf(OUTPUT)
     print(f"Built PDF: {OUTPUT}")
-

@@ -15,11 +15,10 @@ Use templates from `npsc_product_readme.md` and log every post here.
 | Group 3: ____________________ | ____/____/______ | Facebook Post 3 | Pending | 0 | |
 
 ## Follow-up Script (DM Reply)
-“Thanks for your interest. This is the NPSC Crack Kit (₹299 intro for first 20 buyers). It includes 200 MCQs, 90-day plan, and ChatGPT quiz prompts focused on Nagaland + NE prep. I can send the purchase link now.”
+“Thanks for your interest. This is the NPSC Crack Kit. Current offer price is based on the live pricing tracker (₹299 for first 20 buyers, then ₹499). It includes 200 MCQs, 90-day plan, and ChatGPT quiz prompts focused on Nagaland + NE prep. I can send the purchase link now.”
 
 ## Daily Update
 - Total groups posted:
 - Total comment leads:
 - Total DM leads:
 - Total conversions:
-

@@ -22,6 +22,7 @@ Output:
 ### 2) Start operations
 Use these files in order:
 - `npsc_product_readme.md`
+- `first_money_7_14_days_operating_pack.md`
 - `gumroad_listing_setup.md`
 - `facebook_posting_queue.md`
 - `daily_revenue_ops_tracker.csv`
@@ -37,6 +38,7 @@ Use these files in order:
 
 ### Commercialization + growth system
 - `npsc_marketing_plan.md`
+- `first_money_7_14_days_operating_pack.md`
 - `instagram_reels_viral_deployment.md`
 - `profit_game_plan_30_days.md`
 - `pricing_test_rules.md`

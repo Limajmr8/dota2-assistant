@@ -2,11 +2,14 @@
 
 Use this as the execution source-of-truth for running the NPSC system without guesswork.
 
+Primary copy-paste scripts and operating assets:
+- `first_money_7_14_days_operating_pack.md`
+
 ## Daily scoreboard targets
 Track in: `daily_revenue_ops_tracker.csv`
 
 Minimum daily actions:
-- Publish 1 short-form post (Instagram Reel or Facebook group post)
+- Publish 1 Instagram Reel (single-channel sprint mode)
 - Start 10 new qualified DMs
 - Complete D0/D1/D3/D5 follow-ups for all open leads
 - Log all outcomes (reply, objection, close, no-response)

@@ -5,10 +5,14 @@ Fill this every week from `daily_revenue_ops_tracker.csv`.
 ## Week: __________
 
 ## NPSC Revenue Engine
+- Reel views:
+- Replies:
 - Leads contacted:
 - Conversations started:
+- Qualified leads:
 - Buyers (core offer):
 - Upsell buyers:
+- Cash collected (₹):
 - Revenue (₹):
 - Average selling price (₹):
 - Conversion rate (%):

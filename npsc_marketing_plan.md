@@ -31,10 +31,13 @@ Includes:
 ## 5) Lead Generation Engine
 - Daily lead target: **30–50** relevant prospects.
 - Primary channels:
+  - Instagram Reels + Stories (DM keyword CTA)
   - Facebook exam groups
   - Telegram/WhatsApp exam communities
   - Short-form content with CTA to sample + buy link
 - Lead magnet: free mini sample (10 questions + 2-day prep plan).
+
+Reels operating playbook: `instagram_reels_viral_deployment.md`
 
 ## 6) Conversion System (DM + Landing Copy)
 - Message formula:

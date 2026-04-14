@@ -6,7 +6,7 @@ Use this as the execution source-of-truth for running the NPSC system without gu
 Track in: `daily_revenue_ops_tracker.csv`
 
 Minimum daily actions:
-- Publish 1 post from `facebook_posting_queue.md`
+- Publish 1 short-form post (Instagram Reel or Facebook group post)
 - Start 10 new qualified DMs
 - Complete D0/D1/D3/D5 follow-ups for all open leads
 - Log all outcomes (reply, objection, close, no-response)
@@ -15,7 +15,7 @@ Minimum daily actions:
 1. **Offer consistency check (5 min)**
    - Ensure today’s hook aligns with promise in `npsc_product_readme.md`.
 2. **Distribution (15 min)**
-   - Publish post + CTA (DM keyword / link).
+   - Publish post/Reel + CTA (DM keyword / link).
 3. **Lead handling (20 min)**
    - First response under 1 hour when possible.
    - Move warm leads to close flow same day.
@@ -40,6 +40,7 @@ Decisions:
 
 ## Trigger rules
 - If reply rate drops for 3 days: rotate hook angle immediately.
+- If Reel hold rate drops for 3 days: rewrite first 2-second hook format.
 - If closes stall but replies are high: tighten offer clarity + risk reversal.
 - If lead volume is high but AOV is low: strengthen bundle framing and upsell path.
 - If milestone threshold is reached: apply next pricing tier per `pricing_test_rules.md`.

@@ -37,6 +37,7 @@ Use these files in order:
 
 ### Commercialization + growth system
 - `npsc_marketing_plan.md`
+- `instagram_reels_viral_deployment.md`
 - `profit_game_plan_30_days.md`
 - `pricing_test_rules.md`
 - `pricing_test_tracker.csv`

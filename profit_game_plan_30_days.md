@@ -18,7 +18,7 @@ Every day must include:
   - First 2 proof testimonials/screenshots
 
 ## Week 2 (Distribution Scale)
-- Scale posting volume across Facebook + Telegram + WhatsApp communities
+- Scale posting volume across Instagram Reels + Facebook + Telegram + WhatsApp communities
 - Test 3 hooks:
   - Confidence angle
   - Speed/revision angle

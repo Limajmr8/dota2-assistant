@@ -15,6 +15,9 @@ Fill this every week from `daily_revenue_ops_tracker.csv`.
 - Best-performing channel:
 - Best-performing hook angle:
 - Best-performing message variant:
+- Reels posted:
+- Best-performing Reel topic:
+- Reel DM keyword starts:
 
 ## Offer & Pricing Control
 - Current live price (₹299 or ₹499):

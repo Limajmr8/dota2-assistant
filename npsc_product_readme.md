@@ -40,7 +40,8 @@ If you want faster, more confident NPSC prep with clear daily direction, this sy
   - Last 7 Days Crash Revision Plan
 
 ## Ethical Risk Reversal
-If this is not useful in your first 3 days, message for support/refund policy as stated.
+If this is not useful in your first 3 days, request help and a refund review.
+Suggested policy to publish on the sales page: full refund within 3 days of purchase if the buyer has completed at least Day-1 and Day-2 tasks and still finds the product not useful.
 
 ## Call to Action
 If you want a faster, guided route to NPSC prep, this is the most complete starter system at this price.  
@@ -99,6 +100,6 @@ You get done-for-you structure, not random files.
 Reply “READY” for the purchase link.
 
 ## WhatsApp Message 5
-If this is not useful in your first 3 days, message for support/refund policy as stated.  
+If this is not useful in your first 3 days, request support and a refund review under the published 3-day policy.  
 No hype, only structured prep.  
 Reply “GO” and I’ll send access.

@@ -24,33 +24,33 @@ Working product concept used across docs:
 ## 2) What was completed
 The following files were created/updated to implement the strategy:
 
-1. `/home/runner/work/dota2-assistant/dota2-assistant/npsc_marketing_plan.md`
+1. `npsc_marketing_plan.md`
    - Consolidated go-to-market framework and offer architecture.
 
-2. `/home/runner/work/dota2-assistant/dota2-assistant/npsc_product_readme.md`
+2. `npsc_product_readme.md`
    - Product framing, value stack, sales copy direction, conversion language.
 
-3. `/home/runner/work/dota2-assistant/dota2-assistant/profit_game_plan_30_days.md`
+3. `profit_game_plan_30_days.md`
    - 30-day execution cadence split by weeks.
 
-4. `/home/runner/work/dota2-assistant/dota2-assistant/daily_revenue_ops_tracker.csv`
+4. `daily_revenue_ops_tracker.csv`
    - Daily funnel tracking for outreach, follow-ups, conversion, revenue.
 
-5. `/home/runner/work/dota2-assistant/dota2-assistant/weekly_kpi_dashboard.md`
+5. `weekly_kpi_dashboard.md`
    - Weekly rollup and optimization decisions.
 
-6. `/home/runner/work/dota2-assistant/dota2-assistant/gumroad_listing_setup.md`
+6. `gumroad_listing_setup.md`
    - Listing structure, publish workflow, offer framing alignment.
 
-7. `/home/runner/work/dota2-assistant/dota2-assistant/facebook_posting_queue.md`
+7. `facebook_posting_queue.md`
    - Posting + hook testing + DM funnel linkage.
 
-8. `/home/runner/work/dota2-assistant/dota2-assistant/pricing_test_rules.md`
+8. `pricing_test_rules.md`
    - Intro price control and milestone-based increase rule.
 
 9. PDF build flow was executed successfully:
-   - Script: `/home/runner/work/dota2-assistant/dota2-assistant/build_npsc_pdf.py`
-   - Output: `/home/runner/work/dota2-assistant/dota2-assistant/NPSC_Crack_Kit.pdf`
+   - Script: `build_npsc_pdf.py`
+   - Output: `NPSC_Crack_Kit.pdf`
 
 ---
 
@@ -81,7 +81,7 @@ This is the sales model applied across docs:
 ## 5) Continuation prompt for Claude Cowork (copy/paste)
 Use this exact prompt in Claude Cowork:
 
-"Continue work in `/home/runner/work/dota2-assistant/dota2-assistant`.
+"Continue work in the repository root (`.`).
 Preserve and improve the existing NPSC commercialization system already implemented in:
 - `npsc_marketing_plan.md`
 - `npsc_product_readme.md`
@@ -102,7 +102,7 @@ Objectives:
 
 Do not remove the pricing ladder logic (intro price first, increase after milestone).
 After edits, run:
-`python /home/runner/work/dota2-assistant/dota2-assistant/build_npsc_pdf.py`
+`python ./build_npsc_pdf.py`
 and provide:
 - changed files,
 - why each change improves conversion,
@@ -151,6 +151,5 @@ and provide:
 Rebuild compiled kit PDF:
 
 ```bash
-python /home/runner/work/dota2-assistant/dota2-assistant/build_npsc_pdf.py
+python ./build_npsc_pdf.py
 ```
-

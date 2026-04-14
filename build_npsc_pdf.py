@@ -13,10 +13,10 @@ PRODUCT_TITLE = "NPSC CRACK KIT"
 WRAP_CHARS_BODY = 86
 WRAP_CHARS_HEADING = 70
 INPUT_FILES: List[Tuple[str, Path]] = [
-    ("Deliverable 1 — 200 Questions", ROOT / "npsc_200_questions.md"),
-    ("Deliverable 2 — 90-Day Study Strategy", ROOT / "npsc_study_strategy.md"),
-    ("Deliverable 3 — ChatGPT Quiz Prompts", ROOT / "npsc_chatgpt_quiz_prompts.md"),
-    ("Deliverable 4 — Product + Sales Copy", ROOT / "npsc_product_readme.md"),
+    ("Deliverable 1 - 200 Questions", ROOT / "npsc_200_questions.md"),
+    ("Deliverable 2 - 90-Day Study Strategy", ROOT / "npsc_study_strategy.md"),
+    ("Deliverable 3 - ChatGPT Quiz Prompts", ROOT / "npsc_chatgpt_quiz_prompts.md"),
+    ("Deliverable 4 - Product + Sales Copy", ROOT / "npsc_product_readme.md"),
 ]
 
 
@@ -117,6 +117,7 @@ def build_pdf(output_path: Path) -> None:
 
     # Content
     for title, path in INPUT_FILES:
+        write_line("-" * 48, 11)
         write_line(title, 16)
         write_line(f"Source: {path.name}", 10)
         y -= 6

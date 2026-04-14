@@ -1,0 +1,30 @@
+EXEC SUMMARY — NPSC COMMERCIAL SYSTEM
+
+Goal:
+Turn NPSC prep assets into a repeatable, KPI-driven product sales system.
+
+What exists already:
+- Product/content assets (questions, study strategy, quiz prompts, product positioning)
+- Offer + marketing architecture (pricing ladder, listing setup, post queue)
+- Operations tracking (daily tracker + weekly KPI dashboard)
+- Build script for compiled deliverable PDF
+
+Critical files:
+- npsc_product_readme.md
+- npsc_marketing_plan.md
+- pricing_test_rules.md
+- daily_revenue_ops_tracker.csv
+- weekly_kpi_dashboard.md
+- HANDOFF_CLAUDE_COWORK.md
+
+Non-negotiables:
+1) Keep intro-price-to-milestone pricing ladder.
+2) Keep proof-first ethical messaging.
+3) Make weekly decisions from KPI evidence.
+4) Keep listing, posts, and DM scripts aligned.
+
+Build command:
+python ./build_npsc_pdf.py
+
+Expected output:
+NPSC_Crack_Kit.pdf

@@ -6,7 +6,7 @@
   - Aspirants studying from home
   - Aspirants with part-time work/family duties
 - Core resources:
-  1. `npsc_200_questions.md` (daily test engine)
+  1. `npsc_260_questions.md` (daily test engine)
   2. Standard NCERT basics + current affairs notes
   3. Weekly revision tracker
 
@@ -30,7 +30,7 @@ Rule: spend the most time where questions are frequent and factual mistakes are 
 ### A) If You Have 3 Hours/Day
 - **60 min**: Core subject block (Polity/History/GK)
 - **45 min**: Second subject block (Economy/Science/English)
-- **45 min**: `npsc_200_questions.md` self-test (15–25 MCQs)
+- **45 min**: `npsc_260_questions.md` self-test (15–25 MCQs)
 - **30 min**: Current affairs + revision notes
 
 ### B) If You Have 5 Hours/Day
@@ -52,7 +52,7 @@ Rule: spend the most time where questions are frequent and factual mistakes are 
 - Understand exam pattern + syllabus buckets
 - Start Polity basics: Constitution structure, FR/DPSP/Fundamental Duties
 - Nagaland basics: statehood, geography, tribes overview
-- Daily MCQ target: Q1–Q30 from `npsc_200_questions.md`
+- Daily MCQ target: Q1–Q30 from `npsc_260_questions.md`
 
 ## Week 2: Polity High-Weight Core
 - Union vs State, Parliament vs State Legislature, Governor/CM roles
@@ -100,7 +100,7 @@ Rule: spend the most time where questions are frequent and factual mistakes are 
 - Revisit weak areas from Weeks 1–8
 - Full-length mixed MCQ sets daily
 - Build “Top 100 Mistakes” notebook
-- Daily MCQ target: mixed Q1–Q200 (round 2 starts)
+- Daily MCQ target: mixed Q1–Q260 (round 2 starts)
 
 ## Week 10: Consolidation Cycle 2 (Polity + NE GK)
 - Advanced revision: tricky constitution articles and state-specific points
@@ -128,7 +128,7 @@ Rule: spend the most time where questions are frequent and factual mistakes are 
 
 ---
 
-## 5) How to Use `npsc_200_questions.md` Every Day
+## 5) How to Use `npsc_260_questions.md` Every Day
 
 ## Daily Method (45–60 min)
 1. Attempt 15–40 questions without seeing answers.
@@ -148,7 +148,7 @@ Rule: spend the most time where questions are frequent and factual mistakes are 
 - Next week starts with those weak themes first.
 
 ## Final Month Rule
-- At least **2 complete cycles** of all 200 questions
+- At least **2 complete cycles** of all 260 questions
 - Weak questions should be attempted **4–5 times**
 
 ---
@@ -201,3 +201,54 @@ Your regional knowledge is a strength in NPSC. Use it. Build confidence from loc
 - Plan for next week:
 
 Keep this sheet simple and honest. Small weekly correction beats last-minute panic.
+
+---
+
+## 9) Month+2 Extension Plan (June 2026) — Expansion Pack Execution
+
+Use this block after you complete at least one full 90-day cycle.
+
+### Objective
+- Move from coverage to precision.
+- Integrate the **Q201–Q260 Month+2 Expansion Pack** from `npsc_260_questions.md`.
+- Raise accuracy in weak categories without adding random new resources.
+
+### 4-Week June Structure
+
+#### Week A (Days 1–7): First Contact + Tagging
+- Attempt Q201–Q260 in 3–4 sessions.
+- Tag every wrong answer by type:
+  - Concept gap
+  - Fact confusion
+  - Silly/time mistake
+- Build a “Top 30 June Weak List”.
+
+#### Week B (Days 8–14): Weak-Area Rebuild
+- Reattempt all wrong questions from Week A.
+- Add 20 mixed questions daily from Q1–Q260 for retention continuity.
+- Conduct one timed 50-question mixed mock at week end.
+
+#### Week C (Days 15–21): Speed + Accuracy
+- Solve Q201–Q260 second full cycle in timed mode.
+- Set 2-pass solving strategy:
+  - Pass 1: easy/medium certainty
+  - Pass 2: elimination-based hard items
+- Target: reduce careless errors by 30% from Week A baseline.
+
+#### Week D (Days 22–30): Final Consolidation
+- Third selective pass: only wrong and uncertain questions.
+- Build one-page revision trigger sheet for:
+  - Polity traps
+  - NE/Nagaland factual pairs
+  - Economy terms
+  - Science formulas/facts
+- Run 2 mixed mocks and audit only error patterns.
+
+### Month+2 Score Targets
+- Accuracy on Q201–Q260: **80%+**
+- Mixed set accuracy (Q1–Q260): **75%+**
+- Time per question trend: improving week-on-week
+
+### Non-Negotiable Rule
+- Do not replace this system with new random PDFs/videos in June.
+- Improvement comes from error-log execution, not resource-hopping.

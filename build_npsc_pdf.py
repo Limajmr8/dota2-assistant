@@ -13,7 +13,7 @@ PRODUCT_TITLE = "NPSC CRACK KIT"
 WRAP_CHARS_BODY = 86
 WRAP_CHARS_HEADING = 70
 INPUT_FILES: List[Tuple[str, Path]] = [
-    ("Deliverable 1 - 200 Questions", ROOT / "npsc_200_questions.md"),
+    ("Deliverable 1 - 260 Questions", ROOT / "npsc_260_questions.md"),
     ("Deliverable 2 - 90-Day Study Strategy", ROOT / "npsc_study_strategy.md"),
     ("Deliverable 3 - ChatGPT Quiz Prompts", ROOT / "npsc_chatgpt_quiz_prompts.md"),
     ("Deliverable 4 - Product + Sales Copy", ROOT / "npsc_product_readme.md"),
@@ -202,8 +202,12 @@ def build_pdf(output_path: Path) -> None:
 
 
 if __name__ == "__main__":
-    for _, src in INPUT_FILES:
-        if not src.exists():
-            raise FileNotFoundError(f"Missing required source file: {src}")
+    missing = [str(src) for _, src in INPUT_FILES if not src.exists()]
+    if missing:
+        raise FileNotFoundError(
+            "Missing required source file(s).\nExpected paths:\n- "
+            + "\n- ".join(missing)
+            + "\nPlease ensure all markdown files are present in the repository root before building the PDF."
+        )
     build_pdf(OUTPUT)
     print(f"Built PDF: {OUTPUT}")

@@ -9,7 +9,7 @@
 Offer name: **NPSC Rank Accelerator System**
 
 Includes:
-- 200 high-probability NPSC questions (with answers/explanations)
+- 260 high-probability NPSC questions (with answers/explanations)
 - NPSC study strategy roadmap
 - ChatGPT quiz prompts for active recall
 - 7/14/30-day revision schedules
@@ -76,4 +76,3 @@ Action rule:
 - Avoid shame language (“you’re dumb if you say no”).
 - Use this angle:
   - “If you want a faster, guided route to NPSC prep, this is the most complete starter system at this price.”
-

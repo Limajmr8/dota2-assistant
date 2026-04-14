@@ -11,7 +11,7 @@ Most exam materials are made for all-India exams and barely cover Nagaland and N
 If you want faster, more confident NPSC prep with clear daily direction, this system is designed for you.
 
 ## Grand Slam Offer Stack
-- **200 high-probability NPSC questions** with model answers/explanations
+- **260 high-probability NPSC questions** with model answers/explanations
 - **Structured study roadmap** for consistent preparation
 - **Active recall quiz prompts** for daily self-testing
 - **7/14/30-day revision schedules** to stay exam-ready
@@ -42,6 +42,7 @@ If you want faster, more confident NPSC prep with clear daily direction, this sy
 ## Ethical Risk Reversal
 If this is not useful in your first 3 days, request help and a refund review.
 Suggested policy to publish on the sales page: full refund within 3 days of purchase if the buyer has completed at least Day-1 and Day-2 tasks and still finds the product not useful.
+Suggested refund request process: buyer replies to the Gumroad order email with order ID, completion note for Day-1 and Day-2 tasks, and one short reason for refund within 3 days.
 
 ## Call to Action
 If you want a faster, guided route to NPSC prep, this is the most complete starter system at this price.  
@@ -54,7 +55,7 @@ Start now and begin with the Day-1 plan immediately.
 ## Facebook Post 1 — Confidence Hook
 If your NPSC prep feels random, your confidence drops fast.  
 I built **NPSC Rank Accelerator System** so you can follow a clear roadmap from Day 1:
-- 200 high-probability questions
+- 260 high-probability questions
 - Revision schedules (7/14/30 day)
 - Active recall quiz system
 
@@ -82,7 +83,7 @@ Message “ROADMAP” for details.
 
 ## WhatsApp Message 1
 If your NPSC prep feels scattered, I made a structured solution: **NPSC Rank Accelerator System**.  
-It includes 200 high-probability questions + guided roadmap + revision schedules.  
+It includes 260 high-probability questions + guided roadmap + revision schedules.  
 Reply “SAMPLE” for the free 10-question mini sample.
 
 ## WhatsApp Message 2

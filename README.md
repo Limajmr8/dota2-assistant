@@ -2,6 +2,8 @@
 
 Operational workspace for building and selling the **NPSC Rank Accelerator System**.
 
+> Note: this repository was previously initialized under the `dota2-assistant` name but is now maintained as an NPSC prep + commercialization workspace; legacy name references may still appear in branch/history metadata.
+
 This repo is organized to run one clear loop:
 1. produce/maintain exam-prep assets,
 2. package them into a clean PDF,
@@ -28,7 +30,7 @@ Use these files in order:
 ## Repository map
 
 ### Core product content
-- `npsc_200_questions.md`
+- `npsc_260_questions.md`
 - `npsc_study_strategy.md`
 - `npsc_chatgpt_quiz_prompts.md`
 - `npsc_product_readme.md`

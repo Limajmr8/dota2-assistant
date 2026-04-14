@@ -1,4 +1,4 @@
-# NPSC Crack Kit — 200 Most-Likely Questions (With Model Answers)
+# NPSC Crack Kit — 260 Most-Likely Questions (With Model Answers)
 
 ## 1) Nagaland History & Culture (40 Questions)
 
@@ -1025,3 +1025,307 @@ Q200. Which renewable source is most suitable for decentralized power in many re
 A) Tidal mega plants B) Rooftop/mini solar systems C) Nuclear reactors D) Thermal coal units
 Answer: B
 Explanation: Solar mini-systems are practical for dispersed settlements with grid challenges. NE context makes decentralized clean energy highly relevant.
+
+---
+
+## 8) Month+2 Expansion Pack (June 2026 Window) (60 Questions)
+
+Q201. The state animal of Nagaland is:
+A) One-horned rhinoceros B) Mithun C) Red panda D) Snow leopard
+Answer: B
+Explanation: Mithun (Bos frontalis) is the state animal of Nagaland and a frequent state-symbol question.
+
+Q202. The state tree of Nagaland is commonly listed as:
+A) Alder B) Hollong C) Rhododendron D) Teak
+Answer: A
+Explanation: Alder is widely associated as Nagaland’s state tree and also linked with traditional agro-ecological practices.
+
+Q203. Which district headquarters is known for orange production and scenic hill landscapes in eastern Nagaland?
+A) Phek B) Wokha C) Longleng D) Noklak
+Answer: B
+Explanation: Wokha district is popularly linked with orange cultivation and appears in district-economy GK questions.
+
+Q204. Kisama Heritage Village is located near:
+A) Mon B) Dimapur C) Kohima D) Tuensang
+Answer: C
+Explanation: Kisama, the venue of Hornbill Festival, is near Kohima and often asked in tourism and culture sections.
+
+Q205. The constitutional body that conducts elections to Parliament and State Legislatures is:
+A) UPSC B) Election Commission of India C) NITI Aayog D) Finance Commission
+Answer: B
+Explanation: ECI supervises elections under constitutional provisions; this is a standard polity fact.
+
+Q206. Article 21 of the Indian Constitution protects:
+A) Right to Property B) Right to Life and Personal Liberty C) Right to Vote D) Right to Trade Only
+Answer: B
+Explanation: Article 21 is a core fundamental right with broad judicial interpretation.
+
+Q207. The 73rd Constitutional Amendment is associated with:
+A) Municipal corporations B) Panchayati Raj institutions C) GST Council D) Anti-defection law
+Answer: B
+Explanation: The 73rd Amendment constitutionalized Panchayati Raj for rural local governance.
+
+Q208. The 74th Constitutional Amendment deals with:
+A) Urban local bodies B) Emergency provisions C) Centre-state disputes D) Scheduled areas only
+Answer: A
+Explanation: The 74th Amendment strengthened municipal governance in urban areas.
+
+Q209. Which writ is issued to produce a person before court when detention is suspected illegal?
+A) Certiorari B) Mandamus C) Habeas Corpus D) Quo Warranto
+Answer: C
+Explanation: Habeas Corpus safeguards personal liberty against unlawful detention.
+
+Q210. The anti-defection law is contained in:
+A) Ninth Schedule B) Tenth Schedule C) Eleventh Schedule D) Twelfth Schedule
+Answer: B
+Explanation: The Tenth Schedule addresses disqualification due to defection.
+
+Q211. Which tax is levied on supply of goods and services in India’s unified indirect system?
+A) Income Tax B) GST C) Wealth Tax D) Securities Transaction Tax
+Answer: B
+Explanation: GST is the key destination-based indirect tax framework.
+
+Q212. Repo rate refers to:
+A) Rate at which banks lend to customers B) Rate at which RBI lends to commercial banks C) Exchange rate of rupee D) Bond coupon rate
+Answer: B
+Explanation: Repo rate is a primary monetary policy tool used by RBI.
+
+Q213. CPI inflation is directly felt by:
+A) Only exporters B) Households as consumers C) Only large firms D) Only government offices
+Answer: B
+Explanation: CPI reflects retail prices affecting household purchasing power.
+
+Q214. A rise in fiscal deficit generally indicates:
+A) Lower borrowing need B) Higher borrowing requirement C) Zero public spending D) End of taxation
+Answer: B
+Explanation: Higher fiscal deficit implies greater gap financed through borrowing.
+
+Q215. Which institution recommends sharing of central taxes with states?
+A) CAG B) Finance Commission C) NCSC D) UPSC
+Answer: B
+Explanation: Finance Commission recommends vertical and horizontal tax devolution.
+
+Q216. PMGSY is primarily aimed at:
+A) Rural road connectivity B) Urban metro rail C) Coastal shipping D) Aviation subsidy
+Answer: A
+Explanation: PMGSY targets all-weather road connectivity in rural areas.
+
+Q217. In demographic terms, “dependency ratio” compares:
+A) Imports and exports B) Non-working-age population to working-age population C) Men and women ratio only D) Rural and urban population only
+Answer: B
+Explanation: Dependency ratio helps assess economic burden on working population.
+
+Q218. A district-level planning approach is most useful for:
+A) Ignoring local needs B) Context-specific implementation and monitoring C) Replacing state policy entirely D) Ending data collection
+Answer: B
+Explanation: District planning improves local targeting and accountability.
+
+Q219. In disaster management, mitigation means:
+A) Relief after event only B) Long-term risk reduction measures C) Evacuation only D) Compensation only
+Answer: B
+Explanation: Mitigation reduces disaster impact before hazards strike.
+
+Q220. The “Sendai Framework” is related to:
+A) Global trade law B) Disaster risk reduction C) Ocean fisheries D) Digital taxation
+Answer: B
+Explanation: Sendai Framework guides global disaster risk reduction priorities.
+
+Q221. Which greenhouse gas has the largest share in anthropogenic warming impact overall?
+A) Carbon dioxide B) Oxygen C) Neon D) Argon
+Answer: A
+Explanation: CO2 is the most significant long-lived greenhouse gas from human activities.
+
+Q222. Biodiversity hotspots are important mainly because they:
+A) Have low endemism B) Combine rich endemic biodiversity with high threat levels C) Are only marine zones D) Are uninhabited areas
+Answer: B
+Explanation: Hotspots are conservation priorities due to high biodiversity under serious threat.
+
+Q223. A watershed approach in hill regions helps in:
+A) Soil erosion control and water conservation B) Increasing plastic waste C) Desert sand mining D) Marine transport
+Answer: A
+Explanation: Watershed management improves runoff control, soil health, and water availability.
+
+Q224. Which of the following best reflects sustainable development?
+A) Growth at any environmental cost B) Balancing economy, society, and environment C) No industrial activity D) No agricultural change
+Answer: B
+Explanation: Sustainability requires simultaneous economic, social, and ecological balance.
+
+Q225. “Blue economy” in policy context primarily concerns:
+A) Desert resources B) Sustainable use of ocean resources C) Space mining D) Mountain forestry
+Answer: B
+Explanation: Blue economy integrates marine growth with ecological sustainability.
+
+Q226. Which organelle is known as the powerhouse of the cell?
+A) Nucleus B) Mitochondria C) Golgi body D) Lysosome
+Answer: B
+Explanation: Mitochondria generate ATP through cellular respiration.
+
+Q227. DNA primarily stores:
+A) Thermal energy B) Genetic information C) Blood oxygen D) Bone minerals
+Answer: B
+Explanation: DNA carries hereditary information in nucleotide sequences.
+
+Q228. The SI unit of force is:
+A) Joule B) Watt C) Newton D) Pascal
+Answer: C
+Explanation: Force is measured in newtons under SI.
+
+Q229. Velocity differs from speed because velocity:
+A) Has no unit B) Is scalar only C) Includes direction D) Is always constant
+Answer: C
+Explanation: Velocity is a vector quantity; speed is scalar.
+
+Q230. Which process converts liquid water into vapor below boiling point?
+A) Condensation B) Evaporation C) Sublimation D) Deposition
+Answer: B
+Explanation: Evaporation occurs at all temperatures from the liquid surface.
+
+Q231. The main function of red blood cells is to:
+A) Fight infection B) Carry oxygen C) Produce antibodies D) Clot blood
+Answer: B
+Explanation: RBCs transport oxygen using hemoglobin.
+
+Q232. Which vitamin is synthesized in human skin with sunlight exposure?
+A) Vitamin A B) Vitamin C C) Vitamin D D) Vitamin K
+Answer: C
+Explanation: UV exposure helps synthesize vitamin D in skin.
+
+Q233. pH less than 7 indicates:
+A) Basic solution B) Neutral solution C) Acidic solution D) Saline solution
+Answer: C
+Explanation: Solutions with pH below 7 are acidic.
+
+Q234. The gas used by green plants during photosynthesis is:
+A) Oxygen B) Nitrogen C) Carbon dioxide D) Hydrogen
+Answer: C
+Explanation: Plants use CO2 and release oxygen in photosynthesis.
+
+Q235. Which one is a communicable disease?
+A) Diabetes B) Hypertension C) Tuberculosis D) Arthritis
+Answer: C
+Explanation: TB spreads through infectious agents and is communicable.
+
+Q236. The phrase “Rule of Law” implies:
+A) Rule by arbitrary authority B) Supremacy of law over individuals and government C) Rule by military orders D) Rule by tradition only
+Answer: B
+Explanation: Rule of Law ensures legal equality and constitutional governance.
+
+Q237. Public Interest Litigation (PIL) in India is mainly meant to:
+A) Serve only private corporate interests B) Expand access to justice in matters of public concern C) Replace parliament D) Avoid judicial scrutiny
+Answer: B
+Explanation: PIL enables courts to hear wider public grievances and rights issues.
+
+Q238. The basic structure doctrine means:
+A) Constitution can be fully replaced by ordinary law B) Certain core constitutional features cannot be destroyed by amendment C) Parliament has no amendment power D) Courts cannot review amendments
+Answer: B
+Explanation: Supreme Court held that essential constitutional features are beyond destructive amendment.
+
+Q239. Which schedule lists subjects under Panchayats?
+A) Tenth Schedule B) Eleventh Schedule C) Twelfth Schedule D) Seventh Schedule
+Answer: B
+Explanation: Eleventh Schedule relates to Panchayat functions.
+
+Q240. Which schedule lists subjects under Municipalities?
+A) Eleventh Schedule B) Twelfth Schedule C) Ninth Schedule D) First Schedule
+Answer: B
+Explanation: Twelfth Schedule covers functional domains of municipalities.
+
+Q241. Which North-East state is known as the “land of blue hills”?
+A) Mizoram B) Manipur C) Nagaland D) Arunachal Pradesh
+Answer: B
+Explanation: Manipur is popularly called the land of blue hills.
+
+Q242. Kaziranga National Park is located in:
+A) Meghalaya B) Assam C) Tripura D) Sikkim
+Answer: B
+Explanation: Kaziranga in Assam is globally known for the one-horned rhinoceros.
+
+Q243. The Brahmaputra enters India from:
+A) Bhutan B) Nepal C) Tibet (China) D) Myanmar
+Answer: C
+Explanation: The river flows from Tibet into Arunachal Pradesh before Assam.
+
+Q244. Loktak Lake is in:
+A) Nagaland B) Manipur C) Meghalaya D) Arunachal Pradesh
+Answer: B
+Explanation: Loktak Lake, famous for phumdis, is in Manipur.
+
+Q245. Which state in North-East India has the highest forest cover proportion among major states?
+A) Haryana B) Punjab C) Mizoram D) Rajasthan
+Answer: C
+Explanation: Mizoram is known for high forest cover ratio in India.
+
+Q246. The Hornbill Festival is usually held in:
+A) July B) September C) December D) February
+Answer: C
+Explanation: Hornbill Festival is celebrated annually in early December.
+
+Q247. Which communication skill is most critical in NPSC interview performance?
+A) Memorizing only definitions B) Clear, structured, and balanced responses C) Avoiding eye contact D) Giving one-word answers
+Answer: B
+Explanation: Structured, calm, and evidence-based communication improves interview quality.
+
+Q248. In interview ethics, if you do not know an answer, the best response is to:
+A) Bluff confidently B) Admit honestly and attempt reasoned approach C) Change topic immediately D) Argue with board
+Answer: B
+Explanation: Honesty with composure builds credibility in personality tests.
+
+Q249. A good note-making method for prelim prep is:
+A) Copy full textbooks daily B) One-page summary with keywords, dates, and triggers C) No notes, only videos D) Random screenshots only
+Answer: B
+Explanation: Compact recall-oriented notes improve revision speed and retention.
+
+Q250. Spaced repetition improves learning mainly by:
+A) Increasing passive reading time B) Strengthening long-term memory through timed review intervals C) Replacing understanding with guessing D) Avoiding revision
+Answer: B
+Explanation: Repeated retrieval at expanding intervals improves retention durability.
+
+Q251. The “active recall” technique means:
+A) Re-reading notes repeatedly B) Testing memory by recalling without seeing notes C) Highlighting text only D) Listening passively
+Answer: B
+Explanation: Active recall improves retrieval strength and exam performance.
+
+Q252. A high-accuracy prelim strategy in final month should prioritize:
+A) Constantly adding new topics B) Revision of high-yield facts and error-log questions C) Ignoring mocks D) Sleeping less
+Answer: B
+Explanation: Final month should optimize accuracy through revision and error correction.
+
+Q253. Which is the best indicator that your mock strategy is improving?
+A) Attempting fewer questions without reason B) Higher accuracy in previously weak domains C) Random score spikes only D) Spending less time reviewing errors
+Answer: B
+Explanation: Consistent gains in weak areas indicate real learning progress.
+
+Q254. Time management in objective tests is best handled by:
+A) Solving in strict order only B) First-pass easy questions, second-pass difficult ones C) Spending 5 minutes per question D) Skipping all uncertain questions
+Answer: B
+Explanation: Two-pass strategy increases attempts while protecting accuracy.
+
+Q255. In elimination technique for MCQs, first remove:
+A) The shortest option B) Clearly wrong and factually impossible options C) Option A always D) Last option always
+Answer: B
+Explanation: Rational elimination improves probability of correct choice.
+
+Q256. A “revision trigger card” should ideally contain:
+A) Full chapter paragraphs B) Key facts, tricky pairs, and past mistakes C) Decorative quotes only D) Unrelated current news
+Answer: B
+Explanation: Trigger cards work best with concise recall cues.
+
+Q257. For current affairs retention, the most effective weekly routine is:
+A) Monthly bulk reading only B) Daily short updates + Sunday consolidation C) Ignore editorial summaries D) Memorize headlines without context
+Answer: B
+Explanation: Regular micro-review with weekly synthesis supports long-term retention.
+
+Q258. For NE-focused exam prep, mapping places and institutions helps because:
+A) Geography is never asked B) Location-context improves factual recall and policy understanding C) Maps are only for mains D) Maps reduce memory
+Answer: B
+Explanation: Spatial memory improves recall of capitals, borders, parks, and projects.
+
+Q259. The best way to use this Month+2 expansion pack is:
+A) Solve once and forget B) Do 2 full cycles and reattempt wrong answers after 24–72 hours C) Skip explanations D) Use only for interview
+Answer: B
+Explanation: Repetition and correction cycles maximize marks in objective exams.
+
+Q260. If your score plateaus for 2 weeks, the first correction should be:
+A) Increase random study hours only B) Audit error log and redesign weak-topic schedule C) Stop mocks completely D) Change all resources at once
+Answer: B
+Explanation: Targeted error analysis and schedule correction are the fastest way to break score plateaus.

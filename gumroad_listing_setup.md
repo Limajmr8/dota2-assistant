@@ -12,7 +12,7 @@ Use this file to publish quickly with the copy from `npsc_product_readme.md`.
 ## Upload Files
 - `NPSC_Crack_Kit.pdf` (compiled package)
 - Optional raw markdown bundle:
-  - `npsc_200_questions.md`
+  - `npsc_260_questions.md`
   - `npsc_study_strategy.md`
   - `npsc_chatgpt_quiz_prompts.md`
   - `npsc_product_readme.md`
@@ -33,7 +33,7 @@ Use this file to publish quickly with the copy from `npsc_product_readme.md`.
 ## Thumbnail/Preview Checklist
 - Use a simple cover with:
   - “NPSC Rank Accelerator System”
-  - “200 Questions + Guided Roadmap + 7/14/30 Revision”
+  - “260 Questions + Guided Roadmap + 7/14/30 Revision”
   - “Start in 10 Minutes”
 
 ## Publish Checklist

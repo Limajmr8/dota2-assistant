@@ -48,7 +48,13 @@ The following files were created/updated to implement the strategy:
 8. `pricing_test_rules.md`
    - Intro price control and milestone-based increase rule.
 
-9. PDF build flow was executed successfully:
+9. `first_money_7_14_days_operating_pack.md`
+   - Canonical 7-14 day, one-offer/one-channel execution SOP with scripts and 3-day decision rules.
+
+10. `instagram_reels_viral_deployment.md`
+   - Reels-first content execution playbook aligned to DM conversion flow.
+
+11. PDF build flow was executed successfully:
    - Script: `build_npsc_pdf.py`
    - Output: `NPSC_Crack_Kit.pdf`
 
@@ -83,6 +89,8 @@ Use this exact prompt in Claude Cowork:
 
 "Continue work in the repository root (`.`).
 Preserve and improve the existing NPSC commercialization system already implemented in:
+- `first_money_7_14_days_operating_pack.md`
+- `instagram_reels_viral_deployment.md`
 - `npsc_marketing_plan.md`
 - `npsc_product_readme.md`
 - `profit_game_plan_30_days.md`
@@ -93,10 +101,10 @@ Preserve and improve the existing NPSC commercialization system already implemen
 - `pricing_test_rules.md`
 
 Objectives:
-1) tighten conversion copy,
-2) finalize lead magnet + onboarding Day-1 experience,
+1) preserve the 7-14 day one-offer/one-channel operating structure,
+2) tighten conversion copy,
 3) optimize DM scripts for D0/D1/D3/D5,
-4) simplify KPI decisioning,
+4) simplify KPI decisioning with strict 3-day and weekly cut/scale rules,
 5) keep ethical risk-reversal messaging,
 6) maintain Hormozi-style value equation.
 
@@ -113,8 +121,8 @@ and provide:
 ## 6) Future steps (practical execution)
 ### Immediate (next 24–48h)
 - Publish/update Gumroad listing with unified offer messaging.
-- Launch lead magnet capture workflow.
-- Begin daily outreach + DM follow-up cadence.
+- Start the Reels + DM CTA sprint from `first_money_7_14_days_operating_pack.md`.
+- Begin daily outreach + DM follow-up cadence with the operating-pack scripts.
 - Track every lead and follow-up in `daily_revenue_ops_tracker.csv`.
 
 ### Week 1

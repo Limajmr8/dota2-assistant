@@ -27,20 +27,20 @@ Rule: spend the most time where questions are frequent and factual mistakes are 
 
 ## 3) Daily Time Allocation (Realistic for Part-Time / At-Home Aspirants)
 
-## A) If You Have 3 Hours/Day
+### A) If You Have 3 Hours/Day
 - **60 min**: Core subject block (Polity/History/GK)
 - **45 min**: Second subject block (Economy/Science/English)
 - **45 min**: `npsc_200_questions.md` self-test (15–25 MCQs)
 - **30 min**: Current affairs + revision notes
 
-## B) If You Have 5 Hours/Day
+### B) If You Have 5 Hours/Day
 - **120 min**: Core subject block
 - **90 min**: Second subject block
 - **60 min**: Q&A testing (25–40 MCQs)
 - **30 min**: Current affairs NE + India
 - **30 min**: Error log + weak-topic revision
 
-## C) Weekly Pattern
+### C) Weekly Pattern
 - **Mon–Sat**: new learning + daily MCQs
 - **Sunday**: full revision + mock test + error correction
 
@@ -201,4 +201,3 @@ Your regional knowledge is a strength in NPSC. Use it. Build confidence from loc
 - Plan for next week:
 
 Keep this sheet simple and honest. Small weekly correction beats last-minute panic.
-

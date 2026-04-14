@@ -2,6 +2,8 @@
 
 Copy and paste any prompt below directly into ChatGPT.
 
+Note: If ChatGPT repeats questions, add this line at the end of your prompt before sending: **“Use completely new questions not used in previous runs.”**
+
 ## Prompt 1 — Nagaland History Core
 "Act as an NPSC exam coach. Quiz me on Nagaland history (statehood, Naga Club, NNC, 16-Point Agreement, peace process). Ask me 15 multiple-choice questions one at a time with options A/B/C/D. After I answer each one, tell me if I am right or wrong and give a 2–3 sentence explanation. Use a different set of questions every time I run this prompt. Focus on NPSC-level difficulty. Start now."
 
@@ -61,4 +63,3 @@ Copy and paste any prompt below directly into ChatGPT.
 
 ## Prompt 20 — Daily 30-Minute Smart Quiz
 "Act as my daily NPSC coach. Give me a 12-question mixed quiz (Nagaland, NE GK, polity, economy, current affairs, English, science), one at a time. After each answer, mark right/wrong and give a concise explanation. At the end, show score, weak areas, and a 20-minute revision plan. Generate different questions every day. Start now."
-

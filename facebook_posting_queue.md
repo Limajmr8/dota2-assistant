@@ -10,9 +10,9 @@ Use templates from `npsc_product_readme.md` and log every post here.
 ## Group Queue
 | Group Name | Post Date | Template Used | Status | Leads (Comments/DM) | Notes |
 |---|---|---|---|---|---|
-| Group 1: ____________________ | ____/____/______ | Facebook Post 1 | Pending | 0 | |
-| Group 2: ____________________ | ____/____/______ | Facebook Post 2 | Pending | 0 | |
-| Group 3: ____________________ | ____/____/______ | Facebook Post 3 | Pending | 0 | |
+| Group 1: [TBD Name] | [DD/MM/YYYY] | Facebook Post 1 | Pending | 0 | |
+| Group 2: [TBD Name] | [DD/MM/YYYY] | Facebook Post 2 | Pending | 0 | |
+| Group 3: [TBD Name] | [DD/MM/YYYY] | Facebook Post 3 | Pending | 0 | |
 
 ## Follow-up Script (DM Reply)
 “Thanks for your interest. This is the NPSC Crack Kit. Current offer price is based on the live pricing tracker (₹299 for first 20 buyers, then ₹499). It includes 200 MCQs, 90-day plan, and ChatGPT quiz prompts focused on Nagaland + NE prep. I can send the purchase link now.”

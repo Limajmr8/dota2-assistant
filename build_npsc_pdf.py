@@ -9,6 +9,9 @@ from typing import List, Tuple
 
 ROOT = Path(__file__).resolve().parent
 OUTPUT = ROOT / "NPSC_Crack_Kit.pdf"
+PRODUCT_TITLE = "NPSC CRACK KIT"
+WRAP_CHARS_BODY = 86
+WRAP_CHARS_HEADING = 70
 INPUT_FILES: List[Tuple[str, Path]] = [
     ("Deliverable 1 — 200 Questions", ROOT / "npsc_200_questions.md"),
     ("Deliverable 2 — 90-Day Study Strategy", ROOT / "npsc_study_strategy.md"),
@@ -26,7 +29,15 @@ MARGIN_BOTTOM = 60
 
 
 def _escape_pdf_text(s: str) -> str:
-    return s.replace("\\", "\\\\").replace("(", "\\(").replace(")", "\\)")
+    return (
+        s.replace("\\", "\\\\")
+        .replace("(", "\\(")
+        .replace(")", "\\)")
+        .replace("\n", " ")
+        .replace("\r", " ")
+        .replace("\t", " ")
+        .replace("\x00", "")
+    )
 
 
 def _wrap_text(text: str, max_chars: int) -> List[str]:
@@ -97,7 +108,7 @@ def build_pdf(output_path: Path) -> None:
         y -= line_height
 
     # Cover
-    write_line("NPSC CRACK KIT", 24)
+    write_line(PRODUCT_TITLE, 24)
     write_line("Compiled Study + Sales Package", 14)
     y -= 10
     for title, _ in INPUT_FILES:
@@ -111,7 +122,8 @@ def build_pdf(output_path: Path) -> None:
         y -= 6
         content = path.read_text(encoding="utf-8")
         for line, size in _to_text_blocks(content):
-            max_chars = 86 if size <= 11 else 70
+            # Character wrap limits tuned for A4 page width and current font sizes.
+            max_chars = WRAP_CHARS_BODY if size <= 11 else WRAP_CHARS_HEADING
             wrapped = _wrap_text(line, max_chars)
             for wline in wrapped:
                 write_line(wline, size)

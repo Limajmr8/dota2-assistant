@@ -1,112 +1,104 @@
-# NPSC Crack Kit — Gumroad Product Listing Copy
+# NPSC Rank Accelerator System — Gumroad Product Listing Copy
 
 ## Headline
-**Crack NPSC Smarter: The ₹499 Nagaland + NE-Focused Exam Prep Kit Built for Real Aspirants**
+**Pass NPSC with a Clear Roadmap, Not Random Studying — NPSC Rank Accelerator System**
 
 ## Pain-Point Opening
 Most exam materials are made for all-India exams and barely cover Nagaland and North-East specifics. That leaves serious aspirants confused on local history, tribal governance, Article 371(A), and NE current affairs that actually matter in state exams.  
-**NPSC Crack Kit** is built to close that gap with practical, region-relevant preparation you can use daily from home.
+**NPSC Rank Accelerator System** closes that gap with a guided, exam-focused structure you can start immediately from home.
 
-## What’s Inside the Kit
-- **`npsc_200_questions.md`**  
-  200 likely NPSC/NE civil service MCQs with model answers and explanations
-- **`npsc_study_strategy.md`**  
-  Complete 90-day plan designed for Nagaland aspirants (including part-time learners)
-- **`npsc_chatgpt_quiz_prompts.md`**  
-  20 copy-paste prompts for unlimited self-testing with instant explanations
-- **`npsc_product_readme.md`**  
-  Product positioning + ready promotion templates for social distribution
+## Dream Outcome Promise
+If you want faster, more confident NPSC prep with clear daily direction, this system is designed for you.
+
+## Grand Slam Offer Stack
+- **200 high-probability NPSC questions** with model answers/explanations
+- **Structured study roadmap** for consistent preparation
+- **Active recall quiz prompts** for daily self-testing
+- **7/14/30-day revision schedules** to stay exam-ready
+- **Bonus: interview prep cheat-sheet**
+
+## Start in 10 Minutes
+- Open the kit
+- Follow the Day-1 study action
+- Start your first revision cycle immediately
 
 ## Who This Is For
-- Aspirants aged 22–30 preparing for:
-  - NPSC
-  - Nagaland PSC Combined exams
-  - Related North-East state civil service exams
-- Students preparing from Nagaland, Manipur, Assam, Meghalaya with:
-  - limited coaching access
-  - inconsistent internet
-  - family/work responsibilities
+- NPSC aspirants who need a guided preparation path
+- Candidates with limited coaching access or busy schedules
+- Learners who want a clear, repeatable routine instead of scattered PDFs
 
-## Testimonial-Style Social Proof (Placeholder)
-- “For the first time, I found prep content that actually speaks to Nagaland and NE exam reality.” — *NPSC Aspirant, Kohima*  
-- “The 90-day plan helped me stay consistent even with part-time work.” — *Candidate, Dimapur*  
-- “The MCQ explanations and ChatGPT prompts made revision much faster.” — *Aspirant, Mokokchung*
+## Proof Section (Use Real Assets)
+- Add 2–3 testimonials from users
+- Add sample pages/screenshots
+- Add result/progress screenshots where available
 
-## Price Justification (₹499 vs ₹20,000 Coaching)
-One offline coaching cycle can cost around **₹20,000+** excluding travel and living expenses.  
-This kit gives you structured, reusable self-study tools for just **₹499** — less than the cost of a few printed guidebooks, but tailored to Nagaland and NE exam needs.
+## Pricing + Offer Structure
+- Intro launch: **₹299** (first 20 buyers / limited intro window)
+- Standard price: **₹499** (after proof milestone)
+- Optional add-ons:
+  - Interview Rapid Revision Add-on
+  - Last 7 Days Crash Revision Plan
+
+## Ethical Risk Reversal
+If this is not useful in your first 3 days, message for support/refund policy as stated.
 
 ## Call to Action
-If you are serious about clearing NPSC with a practical plan, start today.  
-**Get the NPSC Crack Kit now for ₹499 and begin your 90-day focused preparation.**
+If you want a faster, guided route to NPSC prep, this is the most complete starter system at this price.  
+Start now and begin with the Day-1 plan immediately.
 
 ---
 
-# 3 Facebook Group Post Templates (Nagaland Job Seeker Groups)
+# 3 Facebook Group Post Templates (Hook Testing)
 
-## Facebook Post 1 — Direct Value Pitch
-NPSC aspirants from Nagaland/NE — I created a focused prep bundle called **NPSC Crack Kit (₹499)**.  
-Most materials ignore Nagaland-specific topics, so this kit includes:
-- 200 NPSC-style MCQs with answers/explanations  
-- 90-day study strategy (for part-time/home learners)  
-- 20 ChatGPT quiz prompts for unlimited practice  
+## Facebook Post 1 — Confidence Hook
+If your NPSC prep feels random, your confidence drops fast.  
+I built **NPSC Rank Accelerator System** so you can follow a clear roadmap from Day 1:
+- 200 high-probability questions
+- Revision schedules (7/14/30 day)
+- Active recall quiz system
 
-If you want region-specific prep instead of generic notes, this will help.  
-Comment “KIT” or DM me for link.
+Want the free mini sample (10 questions + 2-day plan)? Comment “SAMPLE”.
 
-## Facebook Post 2 — Problem/Solution Style
-Biggest problem in NPSC prep?  
-You study all-India content, but exam prep needs **Nagaland + NE focus** too.
+## Facebook Post 2 — Speed Hook
+Most aspirants study hard but revise poorly.  
+This NPSC system is built to make revision faster and more focused:
+- structured roadmap
+- high-probability question bank
+- daily quiz prompts
 
-So I built **NPSC Crack Kit (₹499)** for serious aspirants:
-- Nagaland history/culture focused MCQs  
-- NE GK + Article 371(A) + NE schemes coverage  
-- Practical 90-day plan  
-- Daily self-testing system
+DM “FAST” for sample + purchase link.
 
-No hype — just structured preparation.  
-DM for details/link.
+## Facebook Post 3 — Cost Hook
+Coaching can cost ₹20,000+ and still leave you without a daily execution system.  
+This is a structured NPSC prep starter system with immediate action steps.
 
-## Facebook Post 3 — Time & Cost Angle
-Not everyone can join coaching centers or spend ₹20,000+ on prep.  
-If you’re preparing from home (with internet issues/family pressure), try **NPSC Crack Kit (₹499)**:
-- Ready study roadmap
-- High-probability question bank
-- ChatGPT practice prompts
-- NE-focused current affairs orientation
-
-Built for Nagaland and NE aspirants who need practical, affordable prep.  
-Message me for the link.
+Intro offer starts at ₹299 (limited cohort).  
+Message “ROADMAP” for details.
 
 ---
 
 # 5 WhatsApp Broadcast Messages
 
 ## WhatsApp Message 1
-Hi! I just launched **NPSC Crack Kit (₹499)** for Nagaland/NE aspirants.  
-Includes 200 likely MCQs + 90-day study plan + ChatGPT quiz prompts.  
-If you’re preparing for NPSC/Nagaland PSC Combined, reply “SEND LINK”.
+If your NPSC prep feels scattered, I made a structured solution: **NPSC Rank Accelerator System**.  
+It includes 200 high-probability questions + guided roadmap + revision schedules.  
+Reply “SAMPLE” for the free 10-question mini sample.
 
 ## WhatsApp Message 2
-Most prep materials miss Nagaland-specific topics.  
-So I built a focused self-study bundle: **NPSC Crack Kit**.  
-Affordable (₹499), practical, and made for home/part-time aspirants.  
-Reply if you want details.
+Most aspirants don’t fail from lack of effort, they fail from lack of structure.  
+This gives you a clear prep path you can start in 10 minutes.  
+Reply “START” for details.
 
 ## WhatsApp Message 3
-If coaching is expensive, this can help: **NPSC Crack Kit @ ₹499**  
-- 200 Q&A for revision  
-- 90-day structured plan  
-- Unlimited self-quizzing prompts  
-Want the purchase link? Reply “YES”.
+Current intro pricing is ₹299 for the early cohort, then ₹499 after milestone.  
+If you want the roadmap + sample pages, reply “LINK”.
 
 ## WhatsApp Message 4
-NPSC prep update: I made a NE-focused kit for aspirants from Nagaland, Manipur, Assam, Meghalaya.  
-It’s designed for limited internet + busy schedules.  
-Price is ₹499. Reply for demo snippet + link.
+This is for serious NPSC aspirants who want confidence and speed in revision.  
+You get done-for-you structure, not random files.  
+Reply “READY” for the purchase link.
 
 ## WhatsApp Message 5
-Serious about NPSC this year? Start with a clear system, not random PDFs.  
-**NPSC Crack Kit (₹499)** gives you a complete prep bundle in one place.  
-Reply now and I’ll share the link.
-
+If this is not useful in your first 3 days, message for support/refund policy as stated.  
+No hype, only structured prep.  
+Reply “GO” and I’ll send access.

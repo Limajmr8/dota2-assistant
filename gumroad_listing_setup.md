@@ -3,11 +3,11 @@
 Use this file to publish quickly with the copy from `npsc_product_readme.md`.
 
 ## Product Basics
-- Product name: **NPSC Crack Kit**
+- Product name: **NPSC Rank Accelerator System**
 - Category: Education / Exam Prep
-- Price test:
-  - First 20 buyers: **₹299**
-  - After 20 buyers: **₹499**
+- Price ladder:
+  - First 20 buyers / intro window: **₹299**
+  - Buyer 21 onward: **₹499**
 
 ## Upload Files
 - `NPSC_Crack_Kit.pdf` (compiled package)
@@ -21,16 +21,20 @@ Use this file to publish quickly with the copy from `npsc_product_readme.md`.
 - Headline: from `npsc_product_readme.md` → Gumroad Product Listing Copy → Headline
 - Description body: from the same file sections:
   - Pain-Point Opening
-  - What’s Inside the Kit
+  - Dream Outcome Promise
+  - Grand Slam Offer Stack
+  - Start in 10 Minutes
   - Who This Is For
-  - Price Justification
+  - Proof Section
+  - Pricing + Offer Structure
+  - Ethical Risk Reversal
   - Call to Action
 
 ## Thumbnail/Preview Checklist
 - Use a simple cover with:
-  - “NPSC Crack Kit”
-  - “200 MCQs + 90-Day Plan + Quiz Prompts”
-  - “Nagaland + NE Focus”
+  - “NPSC Rank Accelerator System”
+  - “200 Questions + Guided Roadmap + 7/14/30 Revision”
+  - “Start in 10 Minutes”
 
 ## Publish Checklist
 - [ ] Product title added
@@ -41,4 +45,5 @@ Use this file to publish quickly with the copy from `npsc_product_readme.md`.
 - [ ] Product published
 - [ ] Buyer count tracked daily
 - [ ] Switch price to ₹499 after 20 sales
-
+- [ ] Add at least 2 proof assets (sample/testimonial screenshot)
+- [ ] Add guarantee language from listing copy

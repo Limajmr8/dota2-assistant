@@ -1,3 +1,2 @@
-date,stream,activity_type,leads_contacted,conversations,sales_count,revenue_inr,price_point,notes
-YYYY-MM-DD,NPSC,DM/POST,0,0,0,0,299 or 499,
-YYYY-MM-DD,CHURCH,OUTREACH/FOLLOWUP,0,0,0,0,monthly_plan,
+date,channel,hook_angle,activity_type,leads_contacted,conversations_started,followup_d0,followup_d1,followup_d3,followup_d5,sales_count,revenue_inr,active_price_point,upsell_sales,best_message_variant,notes
+YYYY-MM-DD,Facebook/Telegram/WhatsApp,Confidence/Speed/Cost,Post/DM/Followup,0,0,0,0,0,0,0,0,299 or 499,0,,

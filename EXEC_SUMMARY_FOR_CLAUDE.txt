@@ -6,8 +6,8 @@ Turn NPSC prep assets into a repeatable, KPI-driven product sales system.
 What exists already:
 - Product/content assets (questions, study strategy, quiz prompts, product positioning)
 - Offer + marketing architecture (pricing ladder, listing setup, post queue, 7-14 day operating pack)
-- Operations tracking (daily tracker + weekly KPI dashboard)
-- Build script for compiled deliverable PDF
+- Operations tracking (daily tracker + schema guide + weekly KPI dashboard + experiment registry)
+- Build script for compiled deliverable PDF + quality gate checklist
 
 Critical files:
 - first_money_7_14_days_operating_pack.md
@@ -16,15 +16,25 @@ Critical files:
 - npsc_marketing_plan.md
 - pricing_test_rules.md
 - daily_revenue_ops_tracker.csv
+- daily_revenue_ops_tracker_schema.md
 - weekly_kpi_dashboard.md
+- experiment_registry.csv
+- pdf_build_quality_gate.md
 - HANDOFF_CLAUDE_COWORK.md
 
 Non-negotiables:
 1) Keep intro-price-to-milestone pricing ladder.
 2) Keep proof-first ethical messaging.
 3) Keep one-offer, one-channel sprint discipline (Instagram Reels + DM CTA) for the 7-14 day cycle.
-4) Make 3-day/weekly decisions from KPI evidence.
+4) Make 3-day/weekly decisions from only 5 KPIs: reply rate, qualified lead rate, close rate, AOV, revenue/day.
 5) Keep listing, posts, and DM scripts aligned.
+6) Route copy changes through experiment_registry.csv.
+7) Complete pdf_build_quality_gate.md before each PDF rebuild.
+
+Continuity snapshot:
+- Last updated: 2026-04-15
+- Current focus: KPI-only decisioning, tracker data quality, controlled experiments
+- Blocked items: None
 
 Build command:
 python ./build_npsc_pdf.py

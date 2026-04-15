@@ -26,20 +26,19 @@ Minimum daily actions:
    - Run D1, D3, D5 messages.
 5. **Data logging (10 min)**
    - Update tracker immediately after each interaction.
+   - Use allowed vocab from `daily_revenue_ops_tracker_schema.md`.
 
 ## Weekly KPI review ritual (45–60 min)
 Use: `weekly_kpi_dashboard.md`
 
-Review questions:
-- Which hook produced the most qualified conversations?
-- Which channel produced the highest close rate?
-- Which objection appeared most often?
-- Which follow-up day converted best?
+Decision filter (mandatory):
+- Use only these 5 KPIs: reply rate, qualified lead rate, close rate, AOV, revenue/day.
+- Every weekly decision must map to one of the 5 KPIs only.
 
 Decisions:
 - Cut bottom 20% activities.
 - Double top 20% activities.
-- Update listing or DM copy only where data supports it.
+- Update listing or DM copy only where data supports it and test is logged in `experiment_registry.csv`.
 
 ## Trigger rules
 - If reply rate drops for 3 days: rotate hook angle immediately.
@@ -50,6 +49,8 @@ Decisions:
 
 ## Single command reference
 Rebuild product PDF any time source content changes:
+1. Complete `pdf_build_quality_gate.md`
+2. Run:
 ```bash
 python ./build_npsc_pdf.py
 ```

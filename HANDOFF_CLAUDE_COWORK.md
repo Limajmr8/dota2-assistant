@@ -55,8 +55,17 @@ The following files were created/updated to implement the strategy:
    - Reels-first content execution playbook aligned to DM conversion flow.
 
 11. PDF build flow was executed successfully:
-   - Script: `build_npsc_pdf.py`
-   - Output: `NPSC_Crack_Kit.pdf`
+    - Script: `build_npsc_pdf.py`
+    - Output: `NPSC_Crack_Kit.pdf`
+
+12. `daily_revenue_ops_tracker_schema.md`
+    - Strict field definitions + standardized vocab for cleaner KPI analysis.
+
+13. `experiment_registry.csv`
+    - Controlled experiment log for hook/script/listing changes.
+
+14. `pdf_build_quality_gate.md`
+    - Required pre-build checklist for source-content quality.
 
 ---
 
@@ -104,9 +113,10 @@ Objectives:
 1) preserve the 7-14 day one-offer/one-channel operating structure,
 2) tighten conversion copy,
 3) optimize DM scripts for D0/D1/D3/D5,
-4) simplify KPI decisioning with strict 3-day and weekly cut/scale rules,
+4) simplify KPI decisioning using only 5 mandatory KPIs (reply rate, qualified lead rate, close rate, AOV, revenue/day) with strict 3-day and weekly cut/scale rules,
 5) keep ethical risk-reversal messaging,
-6) maintain Hormozi-style value equation.
+6) maintain Hormozi-style value equation,
+7) route all hook/script/listing edits through `experiment_registry.csv`.
 
 Do not remove the pricing ladder logic (intro price first, increase after milestone).
 After edits, run:
@@ -161,3 +171,17 @@ Rebuild compiled kit PDF:
 ```bash
 python ./build_npsc_pdf.py
 ```
+
+Before rebuilding, complete:
+- `pdf_build_quality_gate.md`
+
+---
+
+## 9) Continuity Snapshot (update after every strategy change)
+- Last updated: 2026-04-15
+- Current focus:
+  1) North Star KPI-only weekly decisioning
+  2) Tracker data hygiene + standardized vocab
+  3) Controlled experiment logging for copy changes
+- Blocked items:
+  - None

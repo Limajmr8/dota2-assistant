@@ -12,7 +12,9 @@ This repo is organized to run one clear loop:
 
 ## Quick start
 
-### 1) Build the compiled kit PDF
+### 1) Run PDF quality gate, then build compiled kit PDF
+1. Complete checklist in `pdf_build_quality_gate.md`.
+2. Run:
 ```bash
 python build_npsc_pdf.py
 ```
@@ -26,7 +28,9 @@ Use these files in order:
 - `gumroad_listing_setup.md`
 - `facebook_posting_queue.md`
 - `daily_revenue_ops_tracker.csv`
+- `daily_revenue_ops_tracker_schema.md`
 - `weekly_kpi_dashboard.md`
+- `experiment_registry.csv`
 
 ## Repository map
 
@@ -46,7 +50,10 @@ Use these files in order:
 - `gumroad_listing_setup.md`
 - `facebook_posting_queue.md`
 - `daily_revenue_ops_tracker.csv`
+- `daily_revenue_ops_tracker_schema.md`
 - `weekly_kpi_dashboard.md`
+- `experiment_registry.csv`
+- `pdf_build_quality_gate.md`
 
 ### Team handoff artifacts
 - `HANDOFF_CLAUDE_COWORK.md`
@@ -55,10 +62,11 @@ Use these files in order:
 
 ## Weekly operating cadence
 - **Daily:** execute posting + DM follow-ups, log every lead/event.
-- **Weekly:** review KPIs, cut low-performing actions, scale top-converting message/channel combos.
+- **Weekly:** review only the 5 North Star KPIs in `weekly_kpi_dashboard.md`, cut low-performing actions, scale top-converting actions.
 - **Milestone-based pricing:** keep intro price until threshold is hit, then move to next price tier per `pricing_test_rules.md`.
 
 ## Non-negotiables
 - Keep messaging ethical and proof-first.
 - Keep decisions data-based (from tracker + dashboard), not intuition-only.
 - Keep listing copy, post hooks, and DM scripts consistent with one promise.
+- Route hook/script changes through `experiment_registry.csv`.

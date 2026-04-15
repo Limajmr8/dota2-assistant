@@ -9,6 +9,24 @@ Use this with `pricing_test_tracker.csv`.
 4. Update the tracker after every payment to avoid pricing mismatch in DMs/posts.
 5. Keep urgency ethical and factual (milestone/deadline based), never shame-based.
 
+## Price Switch Checklist (must be YES before switch)
+- [ ] Buyer number is 21+ or deadline trigger is reached.
+- [ ] Last 7-day reply rate is stable (no major collapse).
+- [ ] Last 7-day qualified lead rate is stable.
+- [ ] Last 7-day close rate is stable.
+- [ ] Offer + DM scripts are aligned to current price messaging.
+- [ ] `active_price_point` updated across listing, DM scripts, and tracker.
+
+## Rollback Criteria (after switch to ₹499)
+If either condition happens, rollback to ₹299 for a 7-day stabilization cycle, then re-test:
+1. 3-day close rate drops by **30%+** vs pre-switch baseline, OR
+2. 5-day revenue/day drops by **20%+** vs pre-switch baseline.
+
+Rollback actions:
+- Freeze new copy changes except one controlled test at a time.
+- Log rollback reason in `experiment_registry.csv` and weekly dashboard.
+- Re-run switch checklist before attempting next price bump.
+
 ## Operational Notes
 - `buyer_number_running` is the control field for price switch.
 - Always copy the current active price into outreach replies.

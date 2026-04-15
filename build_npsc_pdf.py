@@ -9,6 +9,7 @@ from typing import List, Tuple
 
 ROOT = Path(__file__).resolve().parent
 OUTPUT = ROOT / "NPSC_Crack_Kit.pdf"
+QUALITY_GATE = ROOT / "pdf_build_quality_gate.md"
 PRODUCT_TITLE = "NPSC CRACK KIT"
 WRAP_CHARS_BODY = 86
 WRAP_CHARS_HEADING = 70
@@ -26,6 +27,12 @@ MARGIN_LEFT = 50
 MARGIN_RIGHT = 50
 MARGIN_TOP = 60
 MARGIN_BOTTOM = 60
+QUALITY_GATE_REQUIRED_MARKERS = [
+    "Gate status: READY",
+    "- [x] No missing sections in source files",
+    "- [x] No duplicated headings or duplicate blocks that create noisy PDF output",
+    "- [x] Offer/copy is current and not stale vs active funnel messaging and price tier",
+]
 
 
 def _escape_pdf_text(s: str) -> str:
@@ -81,6 +88,22 @@ def _to_text_blocks(md_text: str) -> List[Tuple[str, int]]:
             line = f"• {line[2:].strip()}"
         blocks.append((line, 11))
     return blocks
+
+
+def _validate_quality_gate(path: Path) -> None:
+    if not path.exists():
+        raise FileNotFoundError(
+            f"Missing PDF quality gate file: {path}\n"
+            "Create/complete pdf_build_quality_gate.md before running the build."
+        )
+    content = path.read_text(encoding="utf-8")
+    missing_markers = [marker for marker in QUALITY_GATE_REQUIRED_MARKERS if marker not in content]
+    if missing_markers:
+        raise RuntimeError(
+            "PDF quality gate is incomplete. Missing required checklist marker(s):\n- "
+            + "\n- ".join(missing_markers)
+            + "\nComplete pdf_build_quality_gate.md before running the build."
+        )
 
 
 def build_pdf(output_path: Path) -> None:
@@ -202,6 +225,7 @@ def build_pdf(output_path: Path) -> None:
 
 
 if __name__ == "__main__":
+    _validate_quality_gate(QUALITY_GATE)
     missing = [str(src) for _, src in INPUT_FILES if not src.exists()]
     if missing:
         raise FileNotFoundError(

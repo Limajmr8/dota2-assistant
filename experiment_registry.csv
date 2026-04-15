@@ -1,0 +1,2 @@
+experiment_id,start_date,end_date,status,hypothesis,change_tested,primary_kpi,stop_rule,outcome,next_action,owner,notes
+EXP-001,YYYY-MM-DD,,Planned,If we change X then KPI Y improves by Z%,Describe exact hook/script/listing change,reply_rate|qualified_lead_rate|close_rate|AOV|revenue_per_day,Stop after 3 days or 100 leads (whichever first),,Scale|Iterate|Stop,,
